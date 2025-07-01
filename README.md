@@ -98,3 +98,6 @@ Learned how to model real-world business decisions using math and code.
 Understood how Linear Programming can help in resource management.
 
 Learned to use PuLP in Python to define constraints and goals clearly.
+
+OUTPUT
+![Image](https://github.com/user-attachments/assets/8e719433-c2a1-4abe-8ee9-418c304ea3fe)
